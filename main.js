@@ -20,10 +20,10 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  // mainWindow.loadFile('index.html')
+  mainWindow.loadFile('index.html')
 
   // See https://www.electronjs.org/docs/tutorial/testing-widevine-cdm#testing-widevine-cdm.
-  mainWindow.loadURL('https://shaka-player-demo.appspot.com')
+  //mainWindow.loadURL('https://shaka-player-demo.appspot.com')
 
   // Open the DevTools.
   // mainWindow.webContents.openDevTools()

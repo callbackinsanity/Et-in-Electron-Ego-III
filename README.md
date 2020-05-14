@@ -11,7 +11,7 @@ Note: this example was implemented on Windows. To make cross compatible replace 
 ## Read the whole story at
 
 - Part I, vanilla Electron: https://medium.com/@callback.insanity/spotify-web-playback-sdk-feat-electron-50ff930d5c74
-- Part II, using castLabs Electron distribution
+- Part II, using castLabs Electron distribution: https://medium.com/@callback.insanity/castlabs-widevine-cdm-ea369bb5623b
 - Inspiration/credits: https://github.com/electron/electron/issues/12427
 
 

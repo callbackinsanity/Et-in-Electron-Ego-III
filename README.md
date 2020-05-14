@@ -1,4 +1,19 @@
-# electron-quick-start
+# electron-quick-start + Spotify Web Playback SDK Quick Start
+
+Note: this example was implemented on Windows. To make cross compatible replace the npm start instruction in `package.json`.
+
+## What this example does
+
+- Replaces stock Electron with castLabs electron distribution https://github.com/castlabs/electron-releases/tree/8-x-y
+- Implements https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
+- Get your token from https://developer.spotify.com/documentation/web-playback-sdk/quick-start/
+
+## Read the whole story at
+
+- Part I, vanilla Electron: https://medium.com/@callback.insanity/spotify-web-playback-sdk-feat-electron-50ff930d5c74
+- Part II, using castLabs Electron distribution
+- Inspiration/credits: https://github.com/electron/electron/issues/12427
+
 
 **Clone and run for a quick way to see Electron in action.**
 
